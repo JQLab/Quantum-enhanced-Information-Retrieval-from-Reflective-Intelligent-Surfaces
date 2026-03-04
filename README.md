@@ -43,9 +43,9 @@ Importantly, the proposed quantum advantage is achieved **without fragile quantu
 ## 📈 Performance Comparison (placeholders)
 
 <p align="center">
-  <img src="figures/perf_M16.png" width="32%" />
-  <img src="figures/perf_M64.png" width="32%" />
-  <img src="figures/perf_M256.png" width="32%" />
+  <img src="figures/1.png" width="32%" />
+  <img src="figures/2.png" width="32%" />
+  <img src="figures/3.png" width="32%" />
 </p>
 
 <p align="center">
