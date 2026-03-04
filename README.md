@@ -155,22 +155,19 @@ Choose the folder for your modulation size and run the script for the desired nu
 python RS-QR-bit6/RIS-mS1-bit6.py
 ```
 
-### Example 2: bit6, S=7
-```
-python RS-QR-bit6/RIS-mS7-bit6.py
-```
-
-### Example 3: bit4, S=3
+### Example 2: bit4, S=3
 ```
 python RS-QR-bit4/RIS-mS3-bit4.py
 ```
 
-### Example 4: bit8, S=2
-```
-python RS-QR-bit8/RIS-mS2-bit8.py
-```
-
 If the filenames include suffixes (e.g., `...-eig.py`), use the exact uploaded filename.
+
+### Run SQL baseline simulations
+
+To reproduce the classical shot-noise-limit benchmarks used in the paper (can also change bit4/bit6/bit8):
+```
+python SQL-mixReceiver/SQL-mixReceiver-bit4.py
+```
 
 ---
 
