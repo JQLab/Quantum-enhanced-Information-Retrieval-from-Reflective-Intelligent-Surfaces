@@ -25,7 +25,7 @@ Importantly, the proposed quantum advantage is achieved **without fragile quantu
 ## 📊 Framework
 
 <p align="center">
-  <img src="figures/system.png" width="700">
+  <img src="figures/system.png">
 </p>
 
 <p align="center">
