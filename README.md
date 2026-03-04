@@ -24,11 +24,13 @@ Importantly, the proposed quantum advantage is achieved **without fragile quantu
 
 ## 📊 Framework
 
-![Framework](figures/system.png)
+<p align="center">
+  <img src="figures/system.png" width="700">
+</p>
 
-*Figure 1: RIS-modulated information retrieval system with an adaptive time-resolving quantum receiver.*
-
-At a high level:
+<p align="center">
+  <em>RIS-modulated information retrieval system with an adaptive time-resolving quantum receiver</em>
+</p>
 
 1. A coherent probing signal illuminates the RIS (optionally using multiple spectral modes).
 2. The RIS encodes information by **joint amplitude and phase modulation**, producing an M-ary coherent-state constellation.
